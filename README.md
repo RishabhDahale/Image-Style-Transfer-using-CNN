@@ -23,4 +23,4 @@ Final Image
 <img src="https://github.com/RishabhDahale/Image-Style-Transfer-using-CNN/blob/master/results/tree%201.png" width="150">
 
 
-In the second result we can see that even thought the colou scheme of the original scenery was very different from the style image, the network was able to successfully isolate and change it.
+In the second result we can see that even thought the colour scheme of the original scenery was very different from the style image, the network was able to successfully isolate and change it.
